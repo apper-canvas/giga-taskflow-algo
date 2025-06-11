@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "title": "Review project proposal",
+    "description": "Go through the Q4 marketing proposal and provide feedback on budget allocation and timeline",
+    "dueDate": "2024-01-15",
+    "priority": "high",
+    "categoryId": "1",
+    "completed": false,
+    "createdAt": "2024-01-10T09:00:00Z",
+    "completedAt": null
+  },
+  {
+    "id": "2",
+    "title": "Update portfolio website",
+    "description": "Add recent projects and update the about section with new skills and certifications",
+    "dueDate": "2024-01-20",
+    "priority": "medium",
+    "categoryId": "2",
+    "completed": false,
+    "createdAt": "2024-01-09T14:30:00Z",
+    "completedAt": null
+  },
+  {
+    "id": "3",
+    "title": "Plan weekend hiking trip",
+    "description": "Research trails, check weather forecast, and pack necessary gear for the mountain hike",
+    "dueDate": "2024-01-18",
+    "priority": "low",
+    "categoryId": "3",
+    "completed": true,
+    "createdAt": "2024-01-08T11:15:00Z",
+    "completedAt": "2024-01-12T16:45:00Z"
+  },
+  {
+    "id": "4",
+    "title": "Schedule dentist appointment",
+    "description": "Call dental office to book routine cleaning and checkup for next month",
+    "dueDate": null,
+    "priority": "medium",
+    "categoryId": "4",
+    "completed": false,
+    "createdAt": "2024-01-11T08:20:00Z",
+    "completedAt": null
+  },
+  {
+    "id": "5",
+    "title": "Prepare presentation slides",
+    "description": "Create slide deck for the client meeting covering project timeline, deliverables, and budget",
+    "dueDate": "2024-01-16",
+    "priority": "high",
+    "categoryId": "1",
+    "completed": false,
+    "createdAt": "2024-01-12T10:00:00Z",
+    "completedAt": null
+  }
+]
